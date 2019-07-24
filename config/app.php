@@ -56,6 +56,8 @@ return [
 
     'asset_url' => env('ASSET_URL', null),
 
+    'pictures_directory' => storage_path('pictures/'),
+
     /*
     |--------------------------------------------------------------------------
     | Application Timezone
